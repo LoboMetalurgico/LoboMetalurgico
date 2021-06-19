@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Score](https://github-readme-stats.vercel.app/api?username=lobometalurgico&show_icons=true&theme=radical)](https://github.com/lobometalurgico)
-[![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=lobometalurgico&show_icons=true&theme=radical&layout=compact)
+[![Score](https://github-readme-stats.vercel.app/api?username=lobometalurgico&show_icons=true&theme=radical)](https://github.com/LoboMetalurgico)
+[![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=lobometalurgico&show_icons=true&theme=radical&layout=compact)](https://github.com/LoboMetalurgico)
 <!--
 **LoboMetalurgico/LoboMetalurgico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
