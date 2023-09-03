@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is Hugo, a Brazilian developer and translator. Currently, I work with Java/Kotlin, JavaScript/TypeScript, and PHP. However, I am always striving to expand my knowledge and add more languages to this list.
+
+Although I don't have many repositories that are not forks in my account, you can explore my work by navigating through my public organizations. Unfortunately, many of my projects are stored in private repositories.
 
 [![Score](https://github-readme-stats.vercel.app/api?username=lobometalurgico&show_icons=true&theme=radical)](https://github.com/LoboMetalurgico)
 [![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=lobometalurgico&show_icons=true&theme=radical&layout=compact)](https://github.com/LoboMetalurgico)
