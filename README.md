@@ -4,8 +4,8 @@ My name is Hugo, a Brazilian developer and translator. Currently, I work with Ja
 
 Although I don't have many repositories that are not forks in my account, you can explore my work by navigating through my public organizations. Unfortunately, many of my projects are stored in private repositories.
 
-[![Score](https://github-readme-stats.vercel.app/api?username=lobometalurgico&show_icons=true&theme=radical)](https://github.com/LoboMetalurgico)
-[![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=lobometalurgico&show_icons=true&theme=radical&layout=compact)](https://github.com/LoboMetalurgico)
+[![Score](https://github-readme-stats-pi-coral-64.vercel.app/api?username=lobometalurgico&show_icons=true&theme=radical)](https://github.com/LoboMetalurgico)
+[![TopLanguages](https://github-readme-stats-pi-coral-64.vercel.app/api/top-langs/?username=lobometalurgico&show_icons=true&theme=radical&layout=compact)](https://github.com/LoboMetalurgico)
 <!--
 **LoboMetalurgico/LoboMetalurgico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
